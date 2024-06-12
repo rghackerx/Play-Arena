@@ -1,7 +1,7 @@
 # Play-Arena
 This is a basic python script which automates the overhead which you have to done before starting any CTF Machine.
 
-## It adds feature like :  
+## It adds features like :  
 
       --> Creating CTF Based Directories.
       --> adding IP into /etc/hosts files.
